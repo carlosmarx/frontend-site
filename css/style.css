@@ -1,0 +1,16 @@
+
+body {
+  background-color: #b2e4d0;
+  font-family: 'Handlee', cursive;
+}
+
+.logo {
+ width: 442px;
+ height: 425px;
+ margin: 0 auto; 
+}
+
+h1 {
+  text-align:center;
+  color: #FFF;
+}
